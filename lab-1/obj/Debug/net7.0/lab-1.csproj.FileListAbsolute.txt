@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\lab-1.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\lab-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\lab-1.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\lab-1.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\lab-1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\bin\Debug\net7.0\lab-1.exe
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\bin\Debug\net7.0\lab-1.deps.json
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\bin\Debug\net7.0\lab-1.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\bin\Debug\net7.0\lab-1.dll
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\bin\Debug\net7.0\lab-1.pdb
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\lab-1.dll
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\refint\lab-1.dll
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\lab-1.pdb
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\lab-1.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Алгосы\lab-1\lab-1\obj\Debug\net7.0\ref\lab-1.dll
